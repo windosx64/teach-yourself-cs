@@ -1,2 +1,2 @@
 # teach-yourself-cs
-Documenting and troubleshooting as I go through TeachYourselfCS.com
+Documenting resources and troubleshooting as I go through TeachYourselfCS.com
